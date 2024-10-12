@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OFET_2024_lab7-1/static/css/main.e6c13ad2.css",
+    "main.js": "/OFET_2024_lab7-1/static/js/main.5b996135.js",
+    "static/media/kyiv.png": "/OFET_2024_lab7-1/static/media/kyiv.8acb7eee395fc97d4901.png",
+    "index.html": "/OFET_2024_lab7-1/index.html",
+    "main.e6c13ad2.css.map": "/OFET_2024_lab7-1/static/css/main.e6c13ad2.css.map",
+    "main.5b996135.js.map": "/OFET_2024_lab7-1/static/js/main.5b996135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b996135.js"
+  ]
+}
